@@ -84,3 +84,7 @@ td{
     width: 50%;
     box-sizing: border-box;
 }
+.tdsinistra{
+    border-right: 1px solid black;
+    
+}
